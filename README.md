@@ -1,2 +1,2 @@
 # mconv
-iconv wrapper for UTF-8/cp932 mixed text files.
+A line by line iconv filter (to UTF-8) for UTF-8/cp932 mixed text files.
